@@ -1,11 +1,10 @@
 do
  function run(msg, matches)
 return [[ 
-نام: آرش
-مقام: سودو و مدیریت اصلی بخش ربات تیم آسیمو
+alfro: امسر
 🌟🌟🌟🌟🌟
-شماره تلفن: +98 939 601 7398
-Telegram.me/Taraneh_Is_Mine_Im_Sharr
+
+Telegram.me/alfroshotak
 ]]
 end
 return {
