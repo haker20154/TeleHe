@@ -283,7 +283,7 @@ function create_config( )
     "help_plug",
     "v-card"
     },
-    sudo_users = {226726601},--Sudo users
+    sudo_users = { 196560568},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Asimo-Bot V1
@@ -291,12 +291,10 @@ function create_config( )
 
 مدیران:
 @ArashRanger
-@hacker_unknown
-@DrCyber1736
-@Amir_h
+@alfroshotak
 
 کانال:
-@AsimoTeam
+@fucker_team
 ]],
     help_text_realm = [[
 Realm Commands:
