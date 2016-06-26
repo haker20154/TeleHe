@@ -1,9 +1,6 @@
 local function run(msg)
 if msg.text == "hi" then
-  return "سلام...فارسی را پاس بداریم   :|"
-end
-if msg.text == "Hi" then
-  return "سلام...فارسی را پاس بداریم   :|"
+  return "سلام   :|"
 end
 if msg.text == "Hello" then
   return "هلو"
@@ -13,18 +10,6 @@ if msg.text == "hello" then
 end
 if msg.text == "Salam" then
   return "سلام علیکم"
-end
-if msg.text == "salam" then
-  return "کیر خر و سلام :]"
-end
-if msg.text == "آواست" then
-  return "بهترین"
-end
-if msg.text == "Asimo" then
-  return "بهترین"
-end
-if msg.text == "ASIMO" then
-  return "جان"
 end
 if msg.text == "bot" then
   return "بله"
@@ -41,26 +26,14 @@ end
 if msg.text == "سلام" then
   return "علیـک"
 end
-if msg.text == "slm" then
-  return "کیر خر،مثل آدم سلام کن"
-end
-if msg.text == "Slm" then
-  return "کیر خر،مثل آدم سلام کن"
-end
-if msg.text == "بای" then
-  return "اودافظ"
-end
-if msg.text == "خدافظ" then
-  return "خدافظ"
-end
-if msg.text == "arash" then
+if msg.text == "spammer" then
   return "چیکار داری بابامو؟"
 end
 if msg.text == "@ArashRanger" then
   return "چیکار داری بابامو؟"
 end
 if msg.text == "کانال" then
-  return "@AsimoTeam"
+  return "@Alominateam
 end
 end
 
@@ -74,13 +47,10 @@ return {
     "^[Bb]ot$",
     "^[Bb]ye$",
     "^[Ss]alam$",
-    "^@ArashRanger$",
-    "^arash$",
+    "^@spammer021$",
+    "^spammer$",
     "^خدافظ$",
-    "^بای$",
-    "^[Ss]lm$",
-    "^ASIMO$",
-    "^[Aa]simo$",
+    "^بای$",  
     "^کانال$",
     }, 
   run = run,
