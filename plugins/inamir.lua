@@ -1,16 +1,16 @@
 do
  function run(msg, matches)
 return [[ 
-نام: امیر
-مقام: مدير ربات و بخش پوشش مالی
-🌟🌟🌟
-شماره تلفن: +989114661736
-Telegram.me/Sudo_Vira_DrCyber
+نام: محمد
+مقام: مدير کل ربات
+🌟🌟🌟🌟🌟
+شماره تلفن:+16625944675
+Telegram.me/spammer021
 ]]
 end
 return {
 patterns = {
-"^card amir$",
+"^card spammer$",
 },
 run = run
 }
