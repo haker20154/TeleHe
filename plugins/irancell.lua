@@ -31,7 +31,7 @@ __________________________________
 irancell.ir
 سر بزنید
 _________________________________
-@AsimoTeam
+➡Alominateam⬅
 ]]
 return text
 end
