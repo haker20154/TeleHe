@@ -1,17 +1,21 @@
 do
 
 function run(msg, matches)
-  return 'asimo v1'.. VERSION .. [[ 
+  return 'alomina v1'.. VERSION .. [[ 
  
-  توسعه دهنده : @ArashRanger
-  
-  کانال : @AsimoTeam
-  
- برای دریافت اطلاعات مدیران از افزونه v-card استفاده کنید
-  
-  Asimo V1
-  
-  All rights reserved.
+  AlominTeam
+
+             Botid:@Alomina
+
+             ——————————————————
+
+             SUDO:@Alominasudo
+             ——————————————————
+
+             Channel:@Alominateam
+             ——————————————————
+
+             Bot v1
   __________________]]
 end
 
