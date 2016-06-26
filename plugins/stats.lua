@@ -120,7 +120,7 @@ local function run(msg, matches)
         return
       end
     end
-    if matches[2] == "asimo" then -- Put everything you like :)
+    if matches[2] == "Alomin" then -- Put everything you like :)
       if not is_admin(msg) then
         return "فقط مدیران !"
       else
