@@ -1,6 +1,13 @@
-#Asimo-Bot
+           AlominTeam
 
-The Best Bot For Managing Your Normal Groups!
+             Botid:@Alomina
 
-Channel:
-@AsimoTeam
+             ------------------
+
+             SUDO:@Alominasudo
+             ------------------
+
+             Channel:Alominateam
+             ------------------
+
+             Bot  V1 
