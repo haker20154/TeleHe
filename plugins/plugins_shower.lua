@@ -1,7 +1,7 @@
 do
  function run(msg, matches)
-return [[ 
-لیست ابزار های آسیمو: 
+return [[
+لیست پلاگین های ربات:
 1. add_bot
 2. addplug
 3. admin
