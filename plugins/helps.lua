@@ -24,7 +24,7 @@ return text
 end
 return {
 patterns = {
-"^(helpall)$",
+"^[/#i](helpall)$",
 },
 run = run
 }
