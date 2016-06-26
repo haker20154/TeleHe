@@ -28,7 +28,7 @@ local function run(msg,matches)
      redis:set("photo:setsticker", "waiting")
      return 'Please send your photo now'
     end
- if matches[1]:lower() == 'avast' then
+ if matches[1]:lower() == 'Alomina' then
  send_document(get_receiver(msg), "sticker.webp", ok_cb, false)
 end
 end
