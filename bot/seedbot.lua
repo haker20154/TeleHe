@@ -283,7 +283,7 @@ function create_config( )
     "help_plug",
     "v-card"
     },
-    sudo_users = { 97715211},--Sudo users
+    sudo_users = {211752618},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[ AlominTeam
